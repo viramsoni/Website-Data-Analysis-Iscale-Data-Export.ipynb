@@ -3,8 +3,8 @@
 An automated data pipeline engineered to fetch, clean, and visualize regional search volume metrics using Python and advanced trend analytics.
 
 ## 📊 Project Artifacts
-* 🚀 **Interactive Code:** [View Jupyter Notebook](./Website-Data-Analysis-pytrend-DataExtraction.ipynb)
-* 📄 **Executive Document:** [Download Complete PDF Report](./Website-Data-Analysis-pytrend-fetch-Data-Export.pdf) *(Backup Mirror)*
+* 🚀 **Interactive Code:** [View Jupyter Notebook](./Website-Data-Analysis-Project)
+* 📄 **Executive Document:** [Download Complete PDF Report](./Website-Data-Analysis-Project) *(Backup Mirror)*
 
 ## ⚙️ Architecture & Engineering Solutions
 * **Environment Restoration:** Rebuilt corrupted runtime environments and package managers under Python 3.13 configuration.
